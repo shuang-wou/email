@@ -8,3 +8,14 @@ En conclusion et une prévision pour mon avenir, je complaint pas des grandes in
 Après mon stage, je vais continuer à postuler à rechercher du travail, et aussi un alternative de postuler un autre master chez Dauphine en master2 ingenerie statistique financier comme où tu as fait des études , en vue que il offre l’une des meilleiure formation sur des méthodologies quantitatives, mais cette fois j’amene des questions que j’ai rencontré dans entreprise pour avoir un an le résoudre avec des instituteur avec des connaissances approfondies, comme le sujet tu as évoqué comme on lance un management de la liquidité dans le cadre que le prix de commodity a beaucoup augmenté, comme on mesure la sensibilité de taux de change avec des réévaluation des actifs, les reactions et les comportement de marché. 
 
 Merci de ton temps encore une fois
+
+
+Les introductions sur les metriers,
+
+On surveille tous les metiers sur leurs consomation et contribution de l'iquidité, leur ussage des ratios comme LCR, NSFR, Levier. Donc il est important de connaitre bien les activités des métiers pour mieux de comprendre comment on coordiner pour construire le meilleur bilan. 
+
+Du coté de la consommations, on divise les metrier en 3 partie, Financing chain, CIB market et AWM. Evidemment, Financing chain concentre les activités avec des entreprise, souvent des prets à l'entreprise. Il est exposé plutôt sur le risque de credit. On a les metriers comme CPRM credit portefeuil et ressource management, Real assets et Global Trade. On va commencer par des analyses sur Global Trade, il investisse principalement sur des entreprise indistruelle et energie et la mobilité, l'investissement sur energie et la mobilité est plus long que celui d'industrie. Du coté de CPRM, il investisse dans infrastructure, energiee, real estate et avitation et une moitié de consommation en crédit structuré. Pour Real asset, il investi principalement sur les syndications sur les infrastructure.
+
+Pour le wealth management, la conso principale est le prêt, et GOOD will pour le asset management.
+
+Pour le Global market, on a equity market qui investisse principalement sur les actions, FI investisse sur les titres de creances <img width="716" height="323" alt="image" src="https://github.com/user-attachments/assets/264f800a-a88e-45ee-ae7b-dc9b5f28c3a2" />
